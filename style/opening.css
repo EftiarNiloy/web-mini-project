@@ -1,0 +1,64 @@
+#open{
+    background-image: url(../assets/hero-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    height: 920px;
+    align-items: center;
+    margin-bottom: 20px;
+
+
+}
+.p1{
+    opacity: 0.8;
+    color: rgb(255, 255, 255);
+    font-family: Work Sans;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+
+    
+}
+.h1{
+    color: rgb(54, 145, 159);
+    font-family: Work Sans;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.p2{
+    opacity: 0.7;
+    color: rgb(246, 248, 244);
+    font-family: Work Sans;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+#open .one .btn{
+    padding: 11px 22px 11px 22px;
+    color: rgb(82, 195, 3);
+    font-family: work sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid rgb(118, 12, 19);
+    opacity: 0.7;
+    margin-top: 15px;
+    box-shadow: 0px 7px 8px rgba(118, 12, 19);
+    background-color: rgb(241, 242, 243);
+}
+.button-container{
+   text-align: center;
+   margin-top: 15px;
+}
