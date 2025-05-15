@@ -1,0 +1,93 @@
+.navbar{
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 30px;
+    margin-right: 50px;
+}
+.btn1{
+    background-color: cadetblue;
+    box-shadow: 0px 15px 15px rgba(118, 12, 19);
+    font-size: 20px;
+    border-radius: 8px;
+}
+.p1{
+    opacity: 0.8;
+    color: rgb(50, 236, 13);
+    font-family: Work Sans;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;   
+}
+
+.h1{
+    color: rgb(229, 240, 110);
+    font-family: Work Sans;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.p2{
+    opacity: 0.7;
+    color: rgb(227, 237, 216);
+    font-family: Work Sans;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.btn{
+    padding: 11px 22px 11px 22px;
+    color: rgb(104, 240, 6);
+    font-family: work sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid rgb(118, 12, 19);
+    opacity: 0.7;
+    margin-top: 15px;
+    box-shadow: 0px 15px 15px rgb(118, 12, 19);
+    background-color: rgb(70, 84, 98);
+}
+.button-container{
+   text-align: center;
+   margin-top: 15px;
+}
+#open{
+
+    background: linear-gradient(0deg, rgb(9, 9, 9) 3.482%,rgba(16, 16, 16, 0) 101.632%),url(../assets/hero-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    height: 920px;
+    align-items: center;
+    margin-bottom: 20px;
+
+
+}
+.navdiv{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 150px;
+
+}
+.one{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 300px;;
+}
